@@ -12,7 +12,7 @@ Devices with pre-installed safeguarding software are available to select at the 
 
 <div class="app-card govuk-!-margin-bottom-4">
   <p class="govuk-body govuk-!-margin-bottom-0">
-    Licenses for this software will expire on 30 September 2021. You can take control of the devices at any time by restoring them to factory settings and applying your own remote management solution. Read our guidance on <a href="/guide-to-resetting-windows-laptops-and-tablets" class="govuk-link">how to apply your own settings to devices</a> to see the actions required to ensure those who have received devices can continue to do so safely.
+    Licenses for this software will expire on 30 September 2021. You can take control of the devices at any time by restoring them to factory settings and applying your own remote management solution. Read our guidance on <a href="/devices/guide-to-resetting-windows-laptops-and-tablets" class="govuk-link">how to apply your own settings to devices</a> to see the actions required to ensure those who have received devices can continue to do so safely.
   </p>
 </div>
 
