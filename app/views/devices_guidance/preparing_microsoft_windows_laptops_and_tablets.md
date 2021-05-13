@@ -25,7 +25,7 @@ If you order ‘Restricted’ devices, they will be delivered with the following
 
 <div class="app-card govuk-!-margin-bottom-4">
   <p class="govuk-body govuk-!-margin-bottom-0">
-    Licenses for this software will expire on 30 September 2021. You can take control of the devices at any time by restoring them to factory settings and applying your own remote management solution. Read our guidance on <a href="/guide-to-resetting-windows-laptops-and-tablets" class="govuk-link">how to apply your own settings to devices</a> to see the actions required to ensure those who have received devices can continue to do so safely.
+    Licenses for this software will expire on 30 September 2021. You can take control of the devices at any time by restoring them to factory settings and applying your own remote management solution. Read our guidance on <a href="/devices/guide-to-resetting-windows-laptops-and-tablets" class="govuk-link">how to apply your own settings to devices</a> to see the actions required to ensure those who have received devices can continue to do so safely.
   </p>
 </div>
 
@@ -48,7 +48,7 @@ Schools can [apply for government funding to get set up on Microsoft 365 Educati
 
 DfE's Microsoft Intune MDM settings prevent users from making changes to files or settings that might stop the device from working.
 
-Microsoft Intune licenses will expire on 30 September 2021. Read our guidance on [how to apply your own settings](/guide-to-resetting-windows-laptops-and-tablets)</a>.
+Microsoft Intune licenses will expire on 30 September 2021. Read our guidance on [how to apply your own settings](/devices/guide-to-resetting-windows-laptops-and-tablets)</a>.
 
 We do not actively monitor users' activity through the MDM and it's not possible to tailor the configured MDM to meet local needs. Anything you try to install yourself may be lost when the device checks in with the MDM, which happens at regular intervals.
 
@@ -56,7 +56,7 @@ We do not actively monitor users' activity through the MDM and it's not possible
 
 DfE’s Cisco Umbrella settings block a range of illegal and inappropriate content and limits searching to the ‘Safe Search’ provided by popular search engines.
 
-Cisco Umbrella licenses will expire on 30 September 2021. Read our guidance on [how to apply your own settings](/guide-to-resetting-windows-laptops-and-tablets).
+Cisco Umbrella licenses will expire on 30 September 2021. Read our guidance on [how to apply your own settings](/devices/guide-to-resetting-windows-laptops-and-tablets).
 
 The settings settings are designed to make the devices safe to use and suitable for a wide range of users, from pre-school children up to care leavers. Websites users visit on their devices will be logged by Cisco Umbrella, but DfE will not monitor these logs and they will not be available to schools, local authorities or trusts. DfE may turn logging on when adjusting filtering rules to test whether they are effective.
 
@@ -66,7 +66,7 @@ When devices connect to a new network, there will be a short delay before the co
 
 ## Reconfiguring devices with DfE settings
 
-Licenses for pre-installed security software (Microsoft Intune and Cisco Umbrella) will expire on 30 September 2021. We recommend following our guidance on [applying your own settings to devices](/guide-to-resetting-windows-laptops-and-tablets) as soon as possible to ensure those who have received devices can continue to do so safely.
+Licenses for pre-installed security software (Microsoft Intune and Cisco Umbrella) will expire on 30 September 2021. We recommend following our guidance on [applying your own settings to devices](/devices/guide-to-resetting-windows-laptops-and-tablets) as soon as possible to ensure those who have received devices can continue to do so safely.
 
 You can take control of the devices at any time by restoring them to factory settings. This will remove all DfE software and settings.
 
