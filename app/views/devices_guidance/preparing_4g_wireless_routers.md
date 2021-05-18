@@ -29,14 +29,13 @@ You should give a copy of [How to get started with your 4G wireless router](/dev
 
 ## Contract length
 
-**All 4G wireless routers come with SIM cards that provide data until 31 July 2021.**
+All 4G wireless routers come with SIM cards that provide data until 31 July 2021. You'll need to [reset routers and replace the SIM cards](/devices/reset-your-wireless-router) to keep using them after this time.
 
-You'll need to reset routers and replace the SIM cards to keep using them after this time.
+If you have Huawei routers, you must reset them before 16 July 2021. If you do not do this, you’ll be unable to use another SIM card when the data runs out.
 
-If you have Huawei routers, you must [reset them before 16 July 2021](/devices/reset-your-wireless-router). If you do not do this, you’ll be unable to use another SIM card when the data runs out.
+If you have a TP‑Link or D‑Link router, you can reset your router and insert another SIM card at any time. If you choose to do this before 31 July 2021, your router will no longer receive data from DfE.
 
-If you have a TP‑Link or D‑Link router, you can [reset your router and insert another SIM card at any time](/devices/reset-your-wireless-router). If you choose to do this before 31 July 2021, your router will no longer receive data from DfE.
-
+### SIM cards 
 
 The SIM card inside each router is activated the day after it's delivered to a trust, local authority or school. You should loan the 4G wireless routers to the children, young people and their parents and carers the following day at the earliest.
 
@@ -58,7 +57,13 @@ Each router will only work with the SIM card that is provided with it. Attemptin
 
 The device will connect to the mobile network with the strongest signal available. Regardless of which network it uses, all traffic will pass through a private, secure connection to a filtered service. This filtering system blocks a range of content categories and limits searching to the ‘Safe Search’ supported by popular search engines. This filtering should not prevent legitimate use of the devices. If a child is able to access inappropriate content, you should report this through the [Support Portal](https://computacenterprod.service-now.com/dfe).
 
-Parents and guardians of the young people making use of these devices should be mindful of advice on supervising internet use by children. You may wish to send the following information to families when distributing 4G wireless routers:
+## Safeguarding resources for schools, colleges, families, carers, and young people
 
-* [Support for parents and carers to keep children safe from online harm](https://www.gov.uk/government/publications/coronavirus-covid-19-keeping-children-safe-online/coronavirus-covid-19-support-for-parents-and-carers-to-keep-children-safe-online) outlines resources to help keep children safe from different risks online and where to go to receive support and advice
-* [Support to stay safe online](https://www.gov.uk/guidance/covid-19-staying-safe-online) includes information on security and privacy settings
+These resources include detailed guidance for schools and colleges on safe remote education, virtual lessons, and live streaming. There's also information on how to make sure children and young people are safe online.
+
+* [Keeping Children Safe in Education](https://www.gov.uk/government/publications/keeping-children-safe-in-education--2) - guidance that schools and colleges must follow when carrying out their duties to safeguard and promote the welfare of children, both online and offline.
+* [Safeguarding and remote education during coronavirus](https://www.gov.uk/guidance/safeguarding-and-remote-education-during-coronavirus-covid-19) - guidance to help you understand safeguarding procedures when planning remote education strategies and teaching remotely.
+* [Support for parents and carers to keep children safe from online harm](https://www.gov.uk/government/publications/coronavirus-covid-19-keeping-children-safe-online/coronavirus-covid-19-support-for-parents-and-carers-to-keep-children-safe-online) - outlines resources to help keep children safe from different risks online and where to go to receive support and advice.
+* [Support to stay safe online](https://www.gov.uk/guidance/covid-19-staying-safe-online) - includes information on security and privacy settings.
+
+In conversations with parents, carers, and children you should emphasise the importance of a safe online environment and offer support and advice on how to do this. It is also important that children, parents, carers, and school staff are clear on what the reporting mechanisms are if they have any concerns regarding online safety.
