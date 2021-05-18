@@ -1,6 +1,8 @@
 ## Get support
 
-We recommend that trusts, local authorities and schools provide a printed copy of guidance on [How to get started with your 4G wireless router](/devices/4g-user-guidance) to the young people and families who are receiving them. If they receive technical queries from those they have provided 4G wireless routers to, consult the [user guidance](/devices/4g-user-guidance) for the specific device type they have received to troubleshoot any issues before logging a support query.
+Trusts, local authorities and schools should give a printed copy of [How to get started with your 4G wireless router](/devices/4g-user-guidance) to the young people and families who are receiving them. 
+
+If they're asked technical questions about 4G wireless routers, they should consult the [user guidance for each router type](/devices/4g-user-guidance) to troubleshoot any issues before raising a raising query.
 
 ### For local authorities and trusts
 
@@ -12,24 +14,31 @@ You can check the status of each router in the [Support Portal](https://computac
 
 ### For young people and families
 
-4G wireless router users should contact the trust, local authority or school which gave their device to them if they encounter any issues. It is important that users do not attempt to reset their device to try to resolve issues, as this will result in both the router and SIM to stop working.
+4G wireless router users should contact the trust, local authority or school which gave their device to them if they have any issues. It is important that users do not attempt to reset their device to try to resolve issues, as this will result in both the router and SIM to stop working.
 
 ## Keeping records
 
-After [placing your order](/how-to-request-4g-wireless-routers) and receiving your 4G wireless routers, you don’t need to do anything to set them up before sending them to users. You should, however, keep records of the type of routers you receive and who you loan them to.
+After [placing your order](/how-to-request-4g-wireless-routers) and getting your 4G wireless routers, you do not need to do anything to set them up before sending them to users. You should, however, keep records of the type of routers you get and who you loan them to.
 
-Keep a note of the name of the user, with the IMEI and SIM number for each device. 
+Keep a note of the name of the user, with the IMEI and SIM number for each device. This information is essential for technical queries, for deactivating devices if they are lost or stolen, and for responding to Regulation of Investigatory Powers Act (RIPA) requests.
 
-This information is essential for technical queries, for deactivating devices if they are lost or stolen, and for responding to Regulation of Investigatory Powers Act (RIPA) requests.
+Read information about [device ownership and distribution](/devices/device-distribution-and-ownership), including examples of loan agreements and suggestions on insurance. 
 
-Read information about [device ownership and distribution](/devices/device-distribution-and-ownership), including examples of loan agreements and suggestions on insurance. Essential information to share with the young people and families you’re helping to get online is available in our [How to get started with your 4G wireless router](/devices/4g-user-guidance) guidance.
+You should give a copy of [How to get started with your 4G wireless router](/devices/4g-user-guidance) to the young people and familes who will use them.
 
 
 ## Contract length
 
-**All SIM cards will remain active until the end of July 2021.**
+**All 4G wireless routers come with SIM cards that provide data until 31 July 2021.**
 
-The SIM card inside each router is activated the day after it is delivered to a trust, local authority or school. You should loan the 4G wireless routers to the children, young people and their parents and carers the following day at the earliest.
+You'll need to reset routers and replace the SIM cards to keep using them after this time.
+
+If you have Huawei routers, you must [reset them before 16 July 2021](/devices/reset-your-wireless-router). If you do not do this, you’ll be unable to use another SIM card when the data runs out.
+
+If you have a TP‑Link or D‑Link router, you can [reset your router and insert another SIM card at any time](/devices/reset-your-wireless-router). If you choose to do this before 31 July 2021, your router will no longer receive data from DfE.
+
+
+The SIM card inside each router is activated the day after it's delivered to a trust, local authority or school. You should loan the 4G wireless routers to the children, young people and their parents and carers the following day at the earliest.
 
 ## Data limits
 
@@ -45,7 +54,7 @@ When distributing devices, you should inform families, young people and care lea
 
 ## Router security
 
-Each router will only work with the SIM card that is provided with it. Attempting to use an alternative SIM in the router or use the SIM card with any other device will not give a data connection and may cause the SIM card to become barred.
+Each router will only work with the SIM card that is provided with it. Attempting to use an another SIM in the router or use the SIM card with any other device will not give a data connection and may cause the SIM card to become barred.
 
 The device will connect to the mobile network with the strongest signal available. Regardless of which network it uses, all traffic will pass through a private, secure connection to a filtered service. This filtering system blocks a range of content categories and limits searching to the ‘Safe Search’ supported by popular search engines. This filtering should not prevent legitimate use of the devices. If a child is able to access inappropriate content, you should report this through the [Support Portal](https://computacenterprod.service-now.com/dfe).
 
